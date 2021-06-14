@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\bin\Debug\Dormidos Pizza.exe.config
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\bin\Debug\Dormidos Pizza.exe
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\bin\Debug\Dormidos Pizza.pdb
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos Pizza.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos_Pizza.administracion.resources
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos_Pizza.Form1.resources
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos_Pizza.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos Pizza.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos Pizza.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos Pizza.exe
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos Pizza.pdb
+C:\Users\HP\OneDrive\Documentos\Tareas UMG\Tercer Semestre\Progra1\Examen Final\Dormidos Pizza\Dormidos Pizza\obj\Debug\Dormidos_Pizza.Orden.resources
